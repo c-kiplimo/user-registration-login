@@ -5,4 +5,4 @@
  + Java mail
  + Email verification with expiry
 ## Diagram
-https://user-images.githubusercontent.com/40702606/104789980-15581a00-578e-11eb-998d-30f2e6a9f461.png
+![img](https://user-images.githubusercontent.com/90177693/200235735-6cd5b6ef-2fd7-4aea-8643-206d983dd28c.png)
