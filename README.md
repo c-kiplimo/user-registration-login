@@ -5,4 +5,6 @@
  + Java mail
  + Email verification with expiry
 ## Diagram
+
 ![img_1.png](img_1.png)
+
