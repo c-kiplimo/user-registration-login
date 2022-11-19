@@ -1,2 +1,5 @@
-package com.collicode.security.security.config;public class PasswordEncoder {
+package com.collicode.security.security.config;
+
+public class PasswordEncoder {
+
 }

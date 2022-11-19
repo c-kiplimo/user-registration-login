@@ -1,2 +1,5 @@
-package com.collicode.security.security.config;public class WebSecurityConfig {
+package com.collicode.security.security.config;
+
+public class WebSecurityConfig {
+
 }
